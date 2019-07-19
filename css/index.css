@@ -143,3 +143,20 @@ body .top-content {
   width: 100%;
   margin: 0 auto;
 }
+.container h1 {
+  font-size: 50px;
+  padding-bottom: 5%;
+}
+.container h2 {
+  font-size: 20px;
+  padding-bottom: 5%;
+}
+.container .box .boxcontent {
+  padding: 10%;
+}
+.container .box .boxcontent p {
+  padding: 2% 0;
+}
+.container .box .boxcontent button {
+  border-radius: 5%;
+}
