@@ -134,3 +134,12 @@ html,
 body {
   height: 100%;
 }
+html .top-content,
+body .top-content {
+  background-color: lightgray;
+}
+.container {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
